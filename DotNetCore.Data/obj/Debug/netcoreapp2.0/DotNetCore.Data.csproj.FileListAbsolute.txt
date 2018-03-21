@@ -1,0 +1,12 @@
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\bin\Debug\netcoreapp2.0\DotNetCore.Data.deps.json
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\bin\Debug\netcoreapp2.0\DotNetCore.Data.dll
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\bin\Debug\netcoreapp2.0\DotNetCore.Data.pdb
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\bin\Debug\netcoreapp2.0\DotNetCore.Core.dll
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\bin\Debug\netcoreapp2.0\DotNetCore.Core.pdb
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.csprojResolveAssemblyReference.cache
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.AssemblyInfoInputs.cache
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.AssemblyInfo.cs
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.csproj.CopyComplete
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.dll
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Data\obj\Debug\netcoreapp2.0\DotNetCore.Data.pdb

@@ -1,0 +1,8 @@
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\bin\Debug\netcoreapp2.0\DotNetCore.Core.deps.json
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\bin\Debug\netcoreapp2.0\DotNetCore.Core.dll
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\bin\Debug\netcoreapp2.0\DotNetCore.Core.pdb
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\obj\Debug\netcoreapp2.0\DotNetCore.Core.csproj.CoreCompileInputs.cache
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\obj\Debug\netcoreapp2.0\DotNetCore.Core.AssemblyInfoInputs.cache
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\obj\Debug\netcoreapp2.0\DotNetCore.Core.AssemblyInfo.cs
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\obj\Debug\netcoreapp2.0\DotNetCore.Core.dll
+C:\Users\abhilash.bandila\source\repos\DotNetCore\DotNetCore.Core\obj\Debug\netcoreapp2.0\DotNetCore.Core.pdb
